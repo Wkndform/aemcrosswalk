@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p107005-e259039-cmstg.adobeaemcloud.com/bin/franklin.delivery/wkndform/aemcrosswalk/localadmin
+    url: https://author-p107005-e259039-cmstg.adobeaemcloud.com/bin/franklin.delivery/wkndform/aemcrosswalk/main
     type: "markup"
     suffix: ".html"
