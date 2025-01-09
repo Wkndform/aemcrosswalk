@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: [author-url]/bin/franklin.delivery/[github owner]/[guthub repo]/[branch]
+    url: [author-url]/bin/franklin.delivery/[github owner]/[github repo]/[branch]
     type: "markup"
     suffix: ".html"
