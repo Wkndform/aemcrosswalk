@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://author-p133911-e1313554.adobeaemcloud.com/bin/franklin.delivery/wkndform/aemcrosswalk/main
+    url: [author-url]/bin/franklin.delivery/[github owner]/[guthub repo]/[branch]
     type: "markup"
     suffix: ".html"
